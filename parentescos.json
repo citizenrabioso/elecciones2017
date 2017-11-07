@@ -2,7 +2,7 @@
   "graph": [],
   "links": [
     {"source": 0, "target": 1},
-    {"source": 0, "target": 2},
+    {"source": 1, "target": 2},
     {"source": 0, "target": 3},
     {"source": 0, "target": 4},
     {"source": 0, "target": 5},
@@ -25,9 +25,9 @@
     {"source": 5, "target": 12},
     {"source": 6, "target": 13}],
   "nodes": [
-    {"size": 60, "score": 0, "id": "Androsynth", "type": "circle"},
-    {"size": 10, "score": 0.2, "id": "Chenjesu", "type": "circle"},
-    {"size": 60, "score": 0.4, "id": "Ilwrath", "type": "circle"},
+    {"size": 60, "score": 0, "id": "Distrito 20", "type": "circle"},
+    {"size": 10, "score": 0.2, "id": "José Miguel Ortíz DC", "type": "square"},
+    {"size": 10, "score": 0.4, "id": "Álvaro Ortiz Vera DC", "type": "square"},
     {"size": 10, "score": 0.6, "id": "Mycon", "type": "circle"},
     {"size": 60, "score": 0.8, "id": "Spathi", "type": "circle"},
     {"size": 10, "score": 1, "id": "Umgah", "type": "circle"},
