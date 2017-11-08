@@ -14,7 +14,8 @@
     {"size": 60, "score": 0.6, "id": "Distrito 8", "type": "circle"},
     {"size": 10, "score": 0.8, "id": "Johnny Carrasco Cerda PS", "type": "square"},
     {"size": 10, "score": 0.8, "id": "Gabriela Carrasco PS", "type": "square"},
-    {"id": "Distritos-Comunas", "type": "circle"},
+    {"id": "Distritos", "type": "circle"},
+    {"id": "Comunas", "type": "triangle"},
     {"id": "Personas", "type": "square"}],
   "directed": false,
   "multigraph": false
